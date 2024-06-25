@@ -10,7 +10,7 @@ Selamat datang di profil GitHub saya! Saya sangat senang mengulik kode pemrogram
   
 ## Cara Menghubungi Saya
 
-Jika Anda tertarik untuk berkolaborasi atau ingin berbicara lebih lanjut tentang pemrograman, jangan ragu untuk menghubungi saya melalui [develitechildren@gmail.com].
+Jika Anda tertarik untuk berkolaborasi atau ingin berbicara lebih lanjut tentang pemrograman, jangan ragu untuk menghubungi saya
 
 ## Terima kasih telah mengunjungi!
 
